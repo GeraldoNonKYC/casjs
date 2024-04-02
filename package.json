@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/mrmikeo/Casjs.git",
+  "_id": "casjs@2.0.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/casjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mrmikeo/Casjs",
+    "rawSpec": "https://github.com/mrmikeo/Casjs",
+    "saveSpec": "git+https://github.com/mrmikeo/Casjs.git",
+    "fetchSpec": "https://github.com/mrmikeo/Casjs.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mrmikeo/Casjs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_spec": "https://github.com/mrmikeo/Casjs",
+  "_where": "/root/xeggexbackend/walletEngine",
+  "author": {
+    "name": "KaffinPX"
+  },
+  "bugs": {
+    "url": "https://github.com/GateKVite/Casjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  },
+  "deprecated": false,
+  "description": "Simple Caspa library for interacting with Caspad & caswalletd gRPC",
+  "homepage": "https://github.com/GateKVite/Casjs#readme",
+  "keywords": [
+    "caspa",
+    "casjs",
+    "cryptocurrency"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "casjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GateKVite/Casjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
